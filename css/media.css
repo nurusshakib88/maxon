@@ -1,0 +1,341 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+.menu {
+	padding-top: 12px;
+}
+.menu ul li a {
+	margin-right: 0;
+	text-align: right;
+}
+/*header end*/
+/*banner start*/
+.banner {
+	margin-bottom: 60px;
+}
+.content-box {
+	max-width: 286px;
+}
+.b_text {
+    padding-top: 35px;
+}
+.b_text h1 {
+   font-size: 30px;
+}
+.b_text p {
+   padding: 20px 0 0;
+}
+.default_btn {
+   margin: 30px 0 0;
+   padding: 15px 30px;
+}
+/*banner end*/
+/*about start*/
+.h_section {
+    font-size: 28px;
+}
+/*about end*/
+/*features start*/
+.f_single {
+	padding: 30px 15px;
+}
+/*features end*/
+
+/*facts start*/
+.facts {
+	padding: 45px 0 0;
+	text-align: center;
+}
+.fact_single {
+   padding: 0 0 40px;
+}
+.fact_single p span {
+   margin-right: 15px;
+   font-size: 55px;
+}
+.fact_single p {
+   font-size: 20px;
+}
+/*facts end*/
+/*testimonial start*/
+.c_single {
+	margin: 0 auto !important;
+	text-align: center;
+}
+.p_btn {
+   left: 3%;
+}
+.n_btn {
+   left: 79%;
+}
+/*testimonial end*/
+/*team start*/
+.t_single {
+	padding-top: 50px;
+}
+/*team end*/
+/*blog start*/
+.b_single {
+	padding-top: 50px;
+}
+/*blog end*/
+/*form start*/
+.form_text, .contact-info {
+	text-align: center;
+}
+.c_submit {
+	display: flex;
+	justify-content: center;
+}
+/*form end*/
+/*footer start*/
+.f_top {
+   text-align: center;
+   padding: 60px 0;
+}
+.f_content {
+	padding-top: 40px;
+}
+/*footer end*/
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.menu {
+	padding-top: 12px;
+}
+.menu ul li a {
+	margin-right: 0;
+	text-align: right;
+}
+/*header end*/
+/*banner start*/
+.banner {
+	margin-bottom: 80px;
+}
+.content-box {
+	max-width: 523px;
+}
+.b_text {
+    padding-top: 50px;
+}
+.b_text h1 {
+   font-size: 45px;
+}
+/*banner end*/
+/*about start*/
+.h_section {
+    font-size: 33px;
+}
+/*about end*/
+/*features start*/
+.f_single {
+	padding: 30px 15px;
+}
+/*features end*/
+
+/*facts start*/
+.facts {
+	padding: 50px 0 0;
+}
+.fact_single {
+   padding-bottom: 50px;
+}
+.fact_single p span {
+   margin-right: 15px;
+   font-size: 50px;
+}
+.fact_single p {
+   font-size: 16px;
+}
+/*facts end*/
+/*testimonial start*/
+.c_single {
+	margin: 0 auto !important;
+	text-align: center;
+}
+.p_btn {
+   left: 5%;
+}
+.n_btn {
+   left: 85%;
+}
+/*testimonial end*/
+/*team start*/
+.t_single {
+	padding-top: 60px;
+}
+/*team end*/
+/*blog start*/
+.b_single {
+	padding-top: 60px;
+}
+/*blog end*/
+/*footer start*/
+.f_top {
+   padding: 80px 0;
+}
+.f_content {
+	padding-top: 60px;
+}
+/*footer end*/
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.menu {
+	padding-top: 15px;
+}
+.menu ul li a {
+	margin-right: 0;
+	text-align: right;
+}
+/*header end*/
+/*banner start*/
+.banner {
+	margin-bottom: 100px;
+}
+.content-box {
+	max-width: 326px;
+}
+.c_width {
+	max-width: 100%;
+	margin: 0 auto;
+}
+.content-box.right {
+   float: right;
+}
+.b_text h1 {
+   font-size: 37px;
+}
+.b_text p {
+   padding: 20px 0 0;
+}
+.default_btn {
+   margin: 30px 0 0;
+}
+/*banner end*/
+/*about start*/
+.h_section {
+    font-size: 33px;
+}
+.about_img {
+	margin-bottom: 50px;
+}
+
+/*about end*/
+/*facts start*/
+.facts {
+	padding: 50px 0 0;
+}
+.fact_single {
+   padding-bottom: 50px;
+}
+/*facts end*/
+/*testimonial start*/
+.p_btn {
+   left: 57%;
+}
+.n_btn {
+   left: 77%;
+}
+/*testimonial end*/
+/*team start*/
+.t_text h4 a {
+   font-size: 20px;;
+   padding: 20px 0 0;
+}
+.social_link a {
+	font-size: 15px;
+  padding: 0 8px;
+}
+/*team end*/
+/*blog start*/
+.c_blog {
+   padding: 20px 0 0;
+}
+.interaction a {
+  padding-right: 60px;
+}
+/*blog end*/
+/*footer start*/
+.f_top {
+   padding: 100px 0;
+}
+/*footer end*/
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*header start*/
+.menu ul li a {
+	margin-right: 35px;
+}
+/*header end*/
+/*banner start*/
+.banner {
+	margin-bottom: 120px;
+}
+.content-box {
+	max-width: 447px;
+}
+.content-box.right {
+   float: right;
+}
+.c_width {
+	max-width: 505px;
+}
+.b_text h1 {
+   font-size: 45px;
+}
+/*banner end*/
+
+/*facts start*/
+.fact_single {
+   padding: 0 10px;
+}
+.fact_single p span {
+   margin-right: 15px;
+}
+/*facts end*/
+/*testimonial start*/
+.p_btn {
+   left: 37%;
+}
+.n_btn {
+   left: 47%;
+}
+/*testimonial end*/
+
+}
+
+/*X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/*banner start*/
+.content-box {
+	max-width: 535px;
+}
+.content-box.right {
+   float: right;
+}
+/*banner end*/
+
+}
+
+/*XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+/*banner start*/
+.content-box {
+	max-width: 625px;
+}
+.content-box.right {
+   float: right;
+}
+/*banner end*/
+
+}
